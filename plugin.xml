@@ -13,10 +13,7 @@
 
    <author>Cesar E. Balzer</author>
 
-   <!-- cordova -->
-   <engines>
-      <engine name="cordova" version=">=9.0.0" />
-   </engines>
+
 
    <js-module src="www/BluetoothPrinter.js" name="BluetoothPrinter">
       <clobbers target="BTPrinter" />
